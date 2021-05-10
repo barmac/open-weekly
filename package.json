@@ -11,6 +11,7 @@
   "keywords": [],
   "author": "Maciej Barelkowski <maciej.barelkowski@camunda.com>",
   "license": "MIT",
+  "repository": "https://github.com/barmac/open-weekly",
   "dependencies": {
     "open": "^8.0.8"
   }
