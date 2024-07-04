@@ -6,7 +6,7 @@ Requires [GitHub CLI](https://cli.github.com/).
 
 ## Installation
 
-Clone this repository and run `npm link`.
+Run `npm i --global barmac/open-weekly`. Alternatively, you can clone this repository, and run `npm link`.
 
 ## Usage
 
